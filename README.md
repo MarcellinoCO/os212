@@ -1,6 +1,6 @@
-![Repo commits](https://badgen.net/github/commits/MarcellinoCO/os212)
-![Repo last commit](https://img.shields.io/github/last-commit/MarcellinoCO/os212)
-![Github followers](https://img.shields.io/github/followers/MarcellinoCO?style=social)
+[![Repo commits](https://badgen.net/github/commits/MarcellinoCO/os212)](https://github.com/MarcellinoCO/os212/commits/master)
+[![Repo last commit](https://img.shields.io/github/last-commit/MarcellinoCO/os212)](https://github.com/MarcellinoCO/os212/commits/master)
+[![Github followers](https://img.shields.io/github/followers/MarcellinoCO?style=social)](https://github.com/MarcellinoCO)
 
 # 👨‍💻 Marcellino Chris O'Vara - OS212 Repository
 📂 My personal repository for the Operating Systems 2021-2 course.
