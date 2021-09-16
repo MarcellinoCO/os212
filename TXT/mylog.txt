@@ -8,3 +8,7 @@ ZCZC W00  30 L10 Assignment #00
 ZCZC W00 100 L02 ZOOM meetings related
 ZCZC W00  30 L02 ZOOM meetings related
 ZCZC W01  90 L02 ZOOM meetings related
+ZCZC W01 360 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W01  90 L02 ZOOM meetings related
+ZCZC W01  90 L09 Assignment in General
+ZCZC W02 100 L02 ZOOM meetings related
