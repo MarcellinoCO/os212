@@ -10,3 +10,4 @@
 ## Important Links
 * [Course site](https://os.vlsm.org/)
 * [Personal log](https://marcellinoco.github.io/os212/TXT/mylog.txt)
+* [Personal resource links](https://marcellinoco.github.io/os212/LINKS/)
