@@ -3,7 +3,7 @@ layout: "layout"
 permalink: /LINKS/
 ---
 
-# Important Links
+# Resource Links
 
 1. [Linux Command Line Cheatsheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)<br>
 Every basic commands for Linux.
