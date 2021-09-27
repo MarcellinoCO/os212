@@ -22,3 +22,10 @@ Brief explanation and usage of GPG keys.
 
 5. [Asymmetric Encryption](https://youtu.be/AQDCe585Lnc/)<br>
 Illustration for asymmetric encryption (public private key).
+
+## Week 03
+6. [File System in OS](https://www.guru99.com/file-systems-operating-system.html/)<br>
+Summary and explanation about file system in an operating system.
+
+7. [FUSE Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html/)<br>
+Official documentation for FUSE file system.
