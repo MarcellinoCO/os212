@@ -6,6 +6,10 @@ permalink: /LINKS/
 # 🔗 Resource Links
 Important links I found along the way through the OS 212 course.
 
+## General
+- [Nano Tutorial](https://www.howtogeek.com/howto/42980/the-beginners-guide-to-nano-the-linux-command-line-text-editor/)<br>
+Simple Nano tutorial for future references!
+
 ## Week 01
 1. [Linux Command Line Cheatsheet](https://cheatography.com/davechild/cheat-sheets/linux-command-line/)<br>
 Every basic commands for Linux.
