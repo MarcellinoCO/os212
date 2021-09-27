@@ -5,15 +5,11 @@
 # useful, but WITHOUT ANY WARRANTY; without even the implied 
 # warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-# REV02 Sun 19 Sep 2021 15:44:11 WIB
-# REV01 Sun 12 Sep 2021 03:10:00 WIB
-# START Mon 28 Sep 21:05:04 WIB 2020
+# REV01 Thu 23 Sep 2021 22:24:00 WIB
+# REV00 Thu 16 Sep 2021 13:40:00 WIB
+# START Sun 12 Sep 2021 13:40:00 WIB
 
-# ATTN:
-# You new to set "REC2" with your own Public-Key Identity!
-# Check it out with "gpg --list-key"
-
-REC2="cbkadal@localhost"
+REC2="marcellinocovara@gmail.com"
 REC1="operatingsystems@vlsm.org"
 FILES="my*.asc my*.txt my*.sh"
 SHA="SHA256SUM"
@@ -53,4 +49,3 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
-
