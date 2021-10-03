@@ -33,3 +33,13 @@ Summary and explanation about file system in an operating system.
 
 7. [FUSE Documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html/)<br>
 Official documentation for FUSE file system.
+
+## Week 04
+8. [Understanding Linux Libraries](https://www.tecmint.com/understanding-shared-libraries-in-linux/)<br>
+Explanation of Linux's library types and how to manage them.
+
+9. [C Pointers](https://www.programiz.com/c-programming/c-pointers/)<br>
+Brief explanation and examples of pointers in the C language.
+
+10. [C Address Operator](https://www.educba.com/address-operator-in-c/)<br>
+Basic understanding of address operators in the C language.
