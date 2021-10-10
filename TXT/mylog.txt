@@ -30,3 +30,8 @@ ZCZC W04  40 L02 ZOOM meetings related
 ZCZC W04  60 L01 SCELE/Discord related
 ZCZC W04 120 L09 Assignment in General
 ZCZC W04  30 L03 Github related
+ZCZC W05  20 L22 Quiz
+ZCZC W05 100 L02 ZOOM meetings related
+ZCZC W05  15 L02 ZOOM meetings related
+ZCZC W05 210 L09 Assignment in General
+ZCZC W05  30 L03 GitHub related

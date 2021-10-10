@@ -43,3 +43,10 @@ Brief explanation and examples of pointers in the C language.
 
 10. [C Address Operator](https://www.educba.com/address-operator-in-c/)<br>
 Basic understanding of address operators in the C language.
+
+## Week 05
+11. [Installing Sudo](https://milq.github.io/enable-sudo-user-account-debian/)<br>
+Quick walkthrough about how to install Sudo on Debian. Super useful for bypassing permission.
+
+12. [Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>
+Thorough explanation about virtual memory.
