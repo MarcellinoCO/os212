@@ -35,3 +35,8 @@ ZCZC W05 100 L02 ZOOM meetings related
 ZCZC W05  15 L02 ZOOM meetings related
 ZCZC W05 210 L09 Assignment in General
 ZCZC W05  30 L03 GitHub related
+ZCZC W06 100 L02 ZOOM meetings related
+ZCZC W06  15 L02 ZOOM meetings related
+ZCZC W06  60 L09 Assignment in General
+ZCZC W06  60 L06 References/Books/Documents/GSGS related
+ZCZC W06  15 L03 GitHub related
