@@ -50,3 +50,16 @@ Quick walkthrough about how to install Sudo on Debian. Super useful for bypassin
 
 12. [Virtual Memory](https://searchstorage.techtarget.com/definition/virtual-memory)<br>
 Thorough explanation about virtual memory.
+
+## Week 06
+13. [Concurrency in OS](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+The principles and benefits of concurrency in an operating system.
+
+14. [Concurrency Implementation](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)<br>
+More advanced concurrency topics and example in Java language.
+
+15. [Process vs Thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/)<br>
+Differences between process and threads.
+
+16. [Multithreading in C](https://www.geeksforgeeks.org/multithreading-c-2/)<br>
+Simple example of multithreading implementation in C language.
