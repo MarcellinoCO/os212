@@ -63,3 +63,13 @@ Differences between process and threads.
 
 16. [Multithreading in C](https://www.geeksforgeeks.org/multithreading-c-2/)<br>
 Simple example of multithreading implementation in C language.
+
+## Week 07
+17. [Problems in Synchronization](https://www.studytonight.com/operating-system/classical-synchronization-problems/)<br>
+Compilation of classical synchronization problems in operating systems.
+
+18. [Deadlock is OS](https://www.guru99.com/deadlock-in-operating-system.html/)<br>
+Brief explanation about deadlock in an operating system.
+
+19. [Memory Consistency Model](https://www.cs.utexas.edu/~bornholt/post/memory-models.html/)<br>
+Explanation and examples of memory consistency model to prevent race condition.
