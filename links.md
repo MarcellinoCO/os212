@@ -73,3 +73,10 @@ Brief explanation about deadlock in an operating system.
 
 19. [Memory Consistency Model](https://www.cs.utexas.edu/~bornholt/post/memory-models.html/)<br>
 Explanation and examples of memory consistency model to prevent race condition.
+
+## Week 08
+20. [Why Building Linux from Scratch?](https://www.quora.com/Why-should-anyone-build-Linux-from-scratch/)<br>
+Some opinions and encouragement to why we should build a linux system from scratch.
+
+21. [What is Cross Toolchain](https://crosstool-ng.github.io/docs/toolchain-construction/)<br>
+What is the cross toolchain that we installed on step 5 of LFS?

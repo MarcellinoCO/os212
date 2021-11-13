@@ -44,3 +44,7 @@ ZCZC W07 100 L02 ZOOM meetings related
 ZCZC W07 120 L09 Assignment in General
 ZCZC W07  60 L06 References/Books/Documents/GSGS related
 ZCZC W07  15 L03 GitHub related
+ZCZC W08 100 L02 ZOOM meetings related
+ZCZC W08  30 L01 SCELE/Discord related
+ZCZC W08  30 L06 References/Books/Documents/GSGS related
+ZCZC W08 360 L09 Assignment in General
