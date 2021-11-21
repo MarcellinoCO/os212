@@ -80,3 +80,10 @@ Some opinions and encouragement to why we should build a linux system from scrat
 
 21. [What is Cross Toolchain](https://crosstool-ng.github.io/docs/toolchain-construction/)<br>
 What is the cross toolchain that we installed on step 5 of LFS?
+
+## Week 09
+22. [Firmware VS Operating System](https://ipwithease.com/firmware-vs-operating-system-sneak-preview/)<br>
+Differences between a firmware and an operating system
+
+23. [Bootloader](https://www.makeuseof.com/what-is-a-bootloader/)<br>
+What is a bootloader and how does it work
